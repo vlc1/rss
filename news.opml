@@ -5,7 +5,12 @@
 		<title>news.opml</title>
 	</head>
 <body>
-	<outline text="Le Monde" title="Le Monde" description="" type="rss" version="RSS" htmlUrl="https://www.lemonde.fr/rss/une.xml" xmlUrl="https://www.lemonde.fr/rss/une.xml"/>
+	<outline text="Basta!" title="Basta!" description="" type="rss" version="RSS" htmlUrl="https://basta.media/" xmlUrl="https://basta.media/spip.php?page=backend"/>
+	<outline text="Le Monde" title="Le Monde" description="" type="rss" version="RSS" htmlUrl="https://www.lemonde.fr/" xmlUrl="https://www.lemonde.fr/rss/une.xml"/>
+	<outline text="Radio France Internationale" title="Radio France Internationale" description="" type="rss" version="RSS" htmlUrl="" xmlUrl="https://www.rfi.fr/fr/contenu/general/rss"/>
+	<outline text="Reporterre" title="Reporterre" description="" type="rss" version="RSS" htmlUrl="https://reporterre.net/" xmlUrl="https://reporterre.net/spip.php?page=backend-simple"/>
+	<outline text="Splann !" title="Splann !" description="" type="rss" version="RSS" htmlUrl="https://splann.org/" xmlUrl="https://splann.org/feed/integral-fr"/>
+	<outline text="StreetPress" title="StreetPress" description="" type="rss" version="RSS" htmlUrl="https://backend.streetpress.com/" xmlUrl="https://backend.streetpress.com/rss.xml"/>
 	<outline text="TLDR" title="TLDR" description="" type="rss" version="RSS" htmlUrl="" xmlUrl="https://kill-the-newsletter.com/feeds/3miidsjk79j78p9fzygp.xml"/>
 </body>
 </opml>
