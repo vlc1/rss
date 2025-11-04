@@ -6,7 +6,9 @@
 	</head>
 <body>
 	<outline text="Basta!" title="Basta!" description="" type="rss" version="RSS" htmlUrl="https://basta.media/" xmlUrl="https://basta.media/spip.php?page=backend"/>
+	<outline text="Le Grand Continent" title="Le Grand Continent" description="" type="rss" version="RSS" htmlUrl="https://legrandcontinent.eu/fr/" xmlUrl="https://legrandcontinent.eu/fr/feed/"/>
 	<outline text="Le Monde" title="Le Monde" description="" type="rss" version="RSS" htmlUrl="https://www.lemonde.fr/" xmlUrl="https://www.lemonde.fr/rss/une.xml"/>
+	<outline text="Mediapart" title="Mediapart" description="" type="rss" version="RSS" htmlUrl="https://www.mediapart.fr/" xmlUrl="https://www.mediapart.fr/articles/feed"/>
 	<outline text="Radio France Internationale" title="Radio France Internationale" description="" type="rss" version="RSS" htmlUrl="" xmlUrl="https://www.rfi.fr/fr/contenu/general/rss"/>
 	<outline text="Reporterre" title="Reporterre" description="" type="rss" version="RSS" htmlUrl="https://reporterre.net/" xmlUrl="https://reporterre.net/spip.php?page=backend-simple"/>
 	<outline text="Splann !" title="Splann !" description="" type="rss" version="RSS" htmlUrl="https://splann.org/" xmlUrl="https://splann.org/feed/integral-fr"/>
