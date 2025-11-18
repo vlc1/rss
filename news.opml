@@ -10,7 +10,9 @@
 	<outline text="Le Canard enchaîné" title="Le Canard enchaîné" description="" type="rss" version="RSS" htmlUrl="https://www.lecanardenchaine.fr/" xmlUrl="https://www.lecanardenchaine.fr/rss/index.xml"/>
 	<outline text="Le Grand Continent" title="Le Grand Continent" description="" type="rss" version="RSS" htmlUrl="https://legrandcontinent.eu/fr/" xmlUrl="https://legrandcontinent.eu/fr/feed/"/>
 	<outline text="Le Monde" title="Le Monde" description="" type="rss" version="RSS" htmlUrl="https://www.lemonde.fr/" xmlUrl="https://www.lemonde.fr/rss/une.xml"/>
+	<outline text="Le Monde diplomatique" title="Le Monde diplomatique" description="" type="rss" version="RSS" htmlUrl="https://www.monde-diplomatique.fr/" xmlUrl="https://www.monde-diplomatique.fr/rss/"/>
 	<outline text="Mediapart" title="Mediapart" description="" type="rss" version="RSS" htmlUrl="https://www.mediapart.fr/" xmlUrl="https://www.mediapart.fr/articles/feed"/>
+	<outline text="Orient XXI" title="Orient XXI" description="" type="rss" version="RSS" htmlUrl="https://orientxxi.info/" xmlUrl="https://orientxxi.info/?page=backend&amp;lang=fr"/>
 	<outline text="Radio France Internationale" title="Radio France Internationale" description="" type="rss" version="RSS" htmlUrl="" xmlUrl="https://www.rfi.fr/fr/contenu/general/rss"/>
 	<outline text="Reporterre" title="Reporterre" description="" type="rss" version="RSS" htmlUrl="https://reporterre.net/" xmlUrl="https://reporterre.net/spip.php?page=backend-simple"/>
 	<outline text="Splann !" title="Splann !" description="" type="rss" version="RSS" htmlUrl="https://splann.org/" xmlUrl="https://splann.org/feed/integral-fr"/>
