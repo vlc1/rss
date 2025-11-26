@@ -5,8 +5,10 @@
 		<title>news.opml</title>
 	</head>
 <body>
+	<outline text="Al Jazeera" title="Al Jazeera" description="" type="rss" version="RSS" htmlUrl="https://www.aljazeera.com/" xmlUrl="https://www.aljazeera.com/xml/rss/all.xml"/>
 	<outline text="Basta!" title="Basta!" description="" type="rss" version="RSS" htmlUrl="https://basta.media/" xmlUrl="https://basta.media/spip.php?page=backend"/>
 	<outline text="Charlie Hebdo" title="Charlie Hebdo" description="" type="rss" version="RSS" htmlUrl="https://charliehebdo.fr/" xmlUrl="https://charliehebdo.fr/feed/"/>
+	<outline text="Haaretz" title="Haaretz" description="" type="rss" version="RSS" htmlUrl="https://www.haaretz.com/israel-news" xmlUrl="https://www.haaretz.com/srv/haaretz-latest-headlines"/>
 	<outline text="Le Canard enchaîné" title="Le Canard enchaîné" description="" type="rss" version="RSS" htmlUrl="https://www.lecanardenchaine.fr/" xmlUrl="https://www.lecanardenchaine.fr/rss/index.xml"/>
 	<outline text="Le Grand Continent" title="Le Grand Continent" description="" type="rss" version="RSS" htmlUrl="https://legrandcontinent.eu/fr/" xmlUrl="https://legrandcontinent.eu/fr/feed/"/>
 	<outline text="Le Monde" title="Le Monde" description="" type="rss" version="RSS" htmlUrl="https://www.lemonde.fr/" xmlUrl="https://www.lemonde.fr/rss/une.xml"/>
